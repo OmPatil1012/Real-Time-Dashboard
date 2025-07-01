@@ -55,10 +55,3 @@ To enable real-time visibility into key performance indicators (KPIs) such as sa
 - Improved executive visibility and engagement
 - Enabled rapid decision-making based on live performance trends
 
----
-
-##  Contact
-
-**Author:** [Your Name]  
-**LinkedIn:** [your-link]  
-**Live Demo / Portfolio:** [your-link]
