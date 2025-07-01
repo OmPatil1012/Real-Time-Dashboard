@@ -1,0 +1,5 @@
+Date,Region,Sales_Amount,New_Customers,Channel
+2025-07-01,North,15000,12,Website
+2025-07-01,South,8700,8,Mobile App
+2025-07-01,East,11200,10,Website
+2025-07-01,West,9500,7,Email Campaign
