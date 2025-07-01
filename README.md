@@ -1,17 +1,17 @@
-# 📊 Real-Time Executive Dashboard with Power BI
+#  Real-Time Executive Dashboard with Power BI
 
 **Tools Used:** Power BI, Power BI REST API, Python, Excel, SQL  
 **Project Type:** Business Intelligence | Real-Time Reporting | Executive Dashboard  
 
 ---
 
-## 🚀 Objective
+##  Objective
 
 To enable real-time visibility into key performance indicators (KPIs) such as sales, customer acquisition, and regional trends by building a live Power BI dashboard using streaming datasets.
 
 ---
 
-## 🔧 How It Works
+##  How It Works
 
 1. Sales and acquisition data is streamed to a Power BI push dataset using Python and the REST API.
 2. Power BI visualizations update in real-time as new records are pushed.
@@ -19,7 +19,7 @@ To enable real-time visibility into key performance indicators (KPIs) such as sa
 
 ---
 
-## 📦 Dataset Used
+##  Dataset Used
 
 - Sample sales data (simulated)
   - `Date`, `Region`, `Sales_Amount`, `New_Customers`, `Channel`
@@ -28,7 +28,7 @@ To enable real-time visibility into key performance indicators (KPIs) such as sa
 
 ---
 
-## 💻 Streaming Script
+##  Streaming Script
 
 - Python script sends new rows every few seconds to Power BI.
 - Uses the Power BI REST API + bearer token auth.
@@ -37,7 +37,7 @@ To enable real-time visibility into key performance indicators (KPIs) such as sa
 
 ---
 
-## 📈 Dashboard Highlights
+##  Dashboard Highlights
 
 > See notes: [`dashboard/README.txt`](dashboard/README.txt)
 
@@ -49,7 +49,7 @@ To enable real-time visibility into key performance indicators (KPIs) such as sa
 
 ---
 
-## ✅ Business Impact
+##  Business Impact
 
 - Reduced reporting lag by 80%
 - Improved executive visibility and engagement
@@ -57,7 +57,7 @@ To enable real-time visibility into key performance indicators (KPIs) such as sa
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Author:** [Your Name]  
 **LinkedIn:** [your-link]  
